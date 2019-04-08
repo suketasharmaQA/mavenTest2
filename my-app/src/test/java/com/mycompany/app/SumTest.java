@@ -2,7 +2,7 @@ package com.mycompany.app;
 
 import org.junit.Test;
 
-public class Sum 
+public class SumTest 
 {
 @Test
 public void summation()
